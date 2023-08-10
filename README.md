@@ -4,7 +4,7 @@ Welcome aboard my GitHub journey! I'm Premkumar, a fervent explorer of the realm
 
 ## 🚀 Present Ventures
 
-My current focus orbits around the celestial spheres of DevOps and Cloud technologies. I'm embarking on a mission to [Briefly Describe What You're Working On], and the excitement to unveil my progress knows no bounds.
+My current voyage revolves within the celestial spheres of DevOps and Cloud technologies. Guided by the constellations of knowledge, I'm embarking on a mission to master an orchestration of cutting-edge tools. From harnessing the power of Ansible and Terraform to sculpting Kubernetes deployments, crafting Dockerized wonders, and choreographing intricate dance routines with Jenkins, GitHub Actions, and GitLab CI/CD, my cosmic canvas is a tapestry woven with innovation. The journey also traverses the realms of Helm, unveiling the secrets of streamlined deployments. With each step, the symphony of these technologies harmonizes into a crescendo of operational mastery. The excitement to unveil my progress knows no bounds, as I traverse these uncharted territories and unveil the boundless potentials they offer.
 
 ## 📚 Learning Odyssey
 
